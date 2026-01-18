@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT097
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Telmisartan 40mg
+Nama Generik    : Telmisartan
+Golongan Obat   : Angiotensin Receptor Blocker
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Telmisartan 40mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi dan mengurangi risiko kardiovaskular
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 40mg sekali sehari dapat ditingkatkan hingga 80mg
+
+EFEK SAMPING
+------------
+Pusing sakit kepala hiperkalemia
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Kehamilan obstruksi bilier
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 25,000 - Rp 55,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, darah tinggi, kardiovaskular
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

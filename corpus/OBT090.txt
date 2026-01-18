@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT090
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Propranolol 40mg
+Nama Generik    : Propranolol
+Golongan Obat   : Beta Blocker Non-selektif
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Propranolol 40mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi angina aritmia tremor esensial dan migrain
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 40mg 2-3 kali sehari dapat ditingkatkan bertahap
+
+EFEK SAMPING
+------------
+Bradikardia kelelahan tangan kaki dingin bronkospasme
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Asma bronkial gagal jantung dekompensasi bradikardia berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 15,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, angina, aritmia, migrain, tremor
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

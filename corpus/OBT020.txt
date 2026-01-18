@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT020
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Amoxicillin 500mg
+Nama Generik    : Amoxicillin
+Golongan Obat   : Antibiotik Penisilin
+Bentuk Sediaan  : Kapsul
+Produsen        : Berbagai Produsen
+
+KOMPOSISI
+---------
+Amoxicillin 500mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati infeksi bakteri seperti infeksi saluran pernapasan infeksi kulit infeksi saluran kemih dan infeksi telinga
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 500mg 3 kali sehari selama 7-10 hari atau sesuai petunjuk dokter
+
+EFEK SAMPING
+------------
+Diare mual muntah ruam kulit reaksi alergi
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Alergi penisilin riwayat reaksi alergi berat terhadap antibiotik beta-laktam
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 15,000 - Rp 35,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+antibiotik, infeksi, batuk, infeksi saluran napas, infeksi kulit
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

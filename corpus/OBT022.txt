@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT022
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Ciprofloxacin 500mg
+Nama Generik    : Ciprofloxacin
+Golongan Obat   : Antibiotik Fluorokuinolon
+Bentuk Sediaan  : Tablet
+Produsen        : Berbagai Produsen
+
+KOMPOSISI
+---------
+Ciprofloxacin 500mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati infeksi bakteri seperti infeksi saluran kemih infeksi saluran cerna diare bakterial dan infeksi kulit
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 500-750mg 2 kali sehari selama 7-14 hari tergantung jenis infeksi
+
+EFEK SAMPING
+------------
+Mual diare pusing sakit kepala nyeri sendi
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Anak di bawah 18 tahun ibu hamil dan menyusui riwayat tendinitis
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 25,000 - Rp 55,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+antibiotik, infeksi saluran kemih, diare bakterial, tifus
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

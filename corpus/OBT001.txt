@@ -1,0 +1,40 @@
+DOKUMEN OBAT ID: OBT001
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Panadol 500mg
+Nama Generik    : Paracetamol
+Golongan Obat   : Analgesik Antipiretik
+Bentuk Sediaan  : Tablet
+Produsen        : GlaxoSmithKline
+
+KOMPOSISI
+---------
+Paracetamol 500mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Meredakan demam dan nyeri ringan hingga sedang seperti sakit kepala sakit gigi nyeri haid nyeri otot dan menurunkan demam pada kondisi flu atau setelah vaksinasi
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa dan anak di atas 12 tahun: 1-2 tablet setiap 4-6 jam. Maksimal 8 tablet per hari
+
+EFEK SAMPING
+------------
+Mual muntah ruam kulit reaksi alergi kerusakan hati pada dosis berlebih
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Gangguan fungsi hati berat hipersensitif terhadap paracetamol
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 15,000
+Kebutuhan Resep: Tidak
+
+KATA KUNCI PENCARIAN
+--------------------
+demam, sakit kepala, nyeri, panas, flu, sakit gigi, nyeri haid
+

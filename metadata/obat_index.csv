@@ -1,0 +1,101 @@
+id,nama_obat,nama_generik,golongan,perlu_resep,tags
+OBT001,Panadol 500mg,Paracetamol,Analgesik Antipiretik,Tidak,demam;sakit kepala;nyeri;panas;flu;sakit gigi;nyeri haid
+OBT002,Biogesic 500mg,Paracetamol,Analgesik Antipiretik,Tidak,demam;panas;sakit kepala;nyeri;flu
+OBT003,Bodrex Tablet,Paracetamol + Caffeine,Analgesik,Tidak,sakit kepala;migrain;pusing;sakit gigi
+OBT004,Paramex Tablet,Paracetamol + Propyphenazone,Analgesik,Tidak,sakit kepala;sakit gigi;nyeri otot;pusing
+OBT005,Oskadon Tablet,Paracetamol + Ibuprofen,Analgesik,Tidak,sakit kepala;migrain;sakit gigi;nyeri
+OBT006,Mixagrip Tablet,Paracetamol + Pseudoephedrine,Analgesik Dekongestan,Tidak,flu;demam;pilek;hidung tersumbat;bersin
+OBT007,Proris Ibuprofen 400mg,Ibuprofen,NSAID,Tidak,nyeri;sakit kepala;nyeri haid;sakit gigi;demam;nyeri otot
+OBT008,Feminax Tablet,Paracetamol + Hyoscine,Analgesik Antispasmodik,Tidak,nyeri haid;kram perut;menstruasi;dismenore
+OBT009,Neo Rheumacyl Tablet,Ibuprofen + Vitamin B,NSAID + Vitamin,Tidak,nyeri otot;pegal linu;nyeri sendi;encok;rematik
+OBT010,Hufagrip Tablet,Paracetamol + Pseudoephedrine + CTM,Analgesik Dekongestan Antihistamin,Tidak,flu;demam;pilek;hidung tersumbat;bersin
+OBT011,OBH Combi Batuk Flu,Paracetamol + Dextromethorphan,Antitusif Analgesik,Tidak,batuk;flu;demam;batuk kering;batuk tidak berdahak
+OBT012,Woods Peppermint,Dextromethorphan,Antitusif,Tidak,batuk;batuk kering;batuk tidak berdahak
+OBT013,Komix Herbal,Ekstrak Herbal,Obat Batuk Herbal,Tidak,batuk;tenggorokan gatal;batuk berdahak;herbal
+OBT014,Bisolvon Tablet,Bromhexine,Mukolitik,Tidak,batuk;batuk berdahak;dahak kental;mukolitik
+OBT015,Mucopect Tablet,Ambroxol,Mukolitik,Tidak,batuk berdahak;dahak;mukolitik
+OBT016,Promag Tablet,Antasida,Antasida,Tidak,maag;asam lambung;perut kembung;mual;nyeri ulu hati
+OBT017,Mylanta Tablet,Antasida,Antasida,Tidak,maag;asam lambung;nyeri ulu hati;kembung
+OBT018,New Diatabs,Attapulgite,Antidiare,Tidak,diare;mencret;sakit perut;BAB cair
+OBT019,Entrostop Tablet,Attapulgite + Pectin,Antidiare,Tidak,diare;mencret;BAB cair;sakit perut
+OBT020,Amoxicillin 500mg,Amoxicillin,Antibiotik Penisilin,Ya,antibiotik;infeksi;batuk;infeksi saluran napas;infeksi kulit
+OBT021,Cefadroxil 500mg,Cefadroxil,Antibiotik Sefalosporin,Ya,antibiotik;infeksi kulit;infeksi saluran kemih;faringitis
+OBT022,Ciprofloxacin 500mg,Ciprofloxacin,Antibiotik Fluorokuinolon,Ya,antibiotik;infeksi saluran kemih;diare bakterial;tifus
+OBT023,Azithromycin 500mg,Azithromycin,Antibiotik Makrolid,Ya,antibiotik;infeksi saluran napas;bronkitis;pneumonia
+OBT024,Imboost Tablet,Echinacea + Zinc,Imunomodulator,Tidak,imunitas;daya tahan tubuh;vitamin;suplemen;flu
+OBT025,Redoxon Triple Action,Vitamin C + D + Zinc,Vitamin,Tidak,vitamin C;daya tahan tubuh;imunitas;flu
+OBT026,Enervon-C Tablet,Vitamin C + B Kompleks,Multivitamin,Tidak,vitamin;multivitamin;stamina;lelah
+OBT027,Sangobion Kapsul,Fe + Vitamin B + Mineral,Suplemen Zat Besi,Tidak,anemia;zat besi;kurang darah;lemas;pusing
+OBT028,Hemaviton Stamina Plus,Multivitamin + Ginseng,Multivitamin,Tidak,stamina;vitamin;lelah;capek;energi
+OBT029,CDR Calcium D Redoxon,Kalsium + Vitamin C + D,Suplemen Kalsium,Tidak,kalsium;tulang;osteoporosis;vitamin D
+OBT030,CTM 4mg,Chlorpheniramine Maleate,Antihistamin Generasi 1,Tidak,alergi;bersin;gatal;biduran;mata berair
+OBT031,Cetirizine 10mg,Cetirizine,Antihistamin Generasi 2,Tidak,alergi;rhinitis;bersin;gatal;biduran
+OBT032,Loratadine 10mg,Loratadine,Antihistamin Generasi 2,Tidak,alergi;rhinitis;biduran;gatal;tidak mengantuk
+OBT033,Metformin 500mg,Metformin,Antidiabetes Oral,Ya,diabetes;gula darah tinggi;kencing manis;diabetes tipe 2
+OBT034,Glimepiride 2mg,Glimepiride,Antidiabetes Oral Sulfonilurea,Ya,diabetes;gula darah;kencing manis
+OBT035,Amlodipine 5mg,Amlodipine,Antihipertensi Calcium Channel Blocker,Ya,hipertensi;darah tinggi;tekanan darah tinggi;angina
+OBT036,Captopril 25mg,Captopril,Antihipertensi ACE Inhibitor,Ya,hipertensi;darah tinggi;tekanan darah tinggi;gagal jantung
+OBT037,Simvastatin 10mg,Simvastatin,Antihiperlipidemia Statin,Ya,kolesterol;kolesterol tinggi;lemak darah;trigliserida
+OBT038,Salbutamol Inhaler,Salbutamol,Bronkodilator Beta-2 Agonis,Ya,asma;sesak napas;mengi;bronkodilator;PPOK
+OBT039,Omeprazole 20mg,Omeprazole,Proton Pump Inhibitor,Ya,maag kronis;GERD;asam lambung;tukak lambung;heartburn
+OBT040,Domperidone 10mg,Domperidone,Prokinetik Antiemetik,Ya,mual;muntah;kembung;lambat cerna;dispepsia
+OBT041,Tolak Angin Cair,Ekstrak Herbal,Jamu Masuk Angin,Tidak,masuk angin;kembung;mual;pusing;perut tidak enak
+OBT042,Antangin JRG,Ekstrak Jahe Royal Jelly Ginseng,Jamu Stamina,Tidak,masuk angin;stamina;lelah;kembung
+OBT043,Betadine Kumur,Povidone Iodine,Antiseptik Mulut,Tidak,sariawan;radang tenggorokan;infeksi mulut;bau mulut
+OBT044,Bioplacenton Gel,Placenta Extract + Neomycin,Antibiotik Topikal,Tidak,luka;luka bakar;lecet;penyembuhan luka
+OBT045,Caladine Lotion,Calamine + Zinc Oxide,Antipruritus Topikal,Tidak,gatal;biang keringat;gigitan serangga;iritasi kulit
+OBT046,Miconazole Cream,Miconazole,Antijamur Topikal,Tidak,jamur kulit;panu;kadas;kurap;gatal jamur
+OBT047,Counterpain Cream,Methyl Salicylate + Menthol,Analgesik Topikal,Tidak,nyeri otot;nyeri sendi;keseleo;kram;pegal linu
+OBT048,Salep 88,Menthol + Camphor,Analgesik Topikal,Tidak,gatal;gigitan serangga;nyeri otot;masuk angin;pegal
+OBT049,Stimuno Forte,Ekstrak Meniran,Imunomodulator Herbal,Tidak,imunitas;daya tahan tubuh;herbal;meniran
+OBT050,Curcuma Plus,Temulawak + Vitamin,Suplemen Herbal,Tidak,nafsu makan;temulawak;herbal;anak susah makan
+OBT051,Kiranti,Ekstrak Herbal Kewanitaan,Jamu Kewanitaan,Tidak,keputihan;bau;kesehatan wanita;organ kewanitaan
+OBT052,Kuku Bima Energi,Ekstrak Herbal + Ginseng,Jamu Stamina,Tidak,stamina pria;energi;vitalitas;lelah
+OBT053,Habbatussauda Oil,Minyak Jintan Hitam,Suplemen Herbal,Tidak,imunitas;daya tahan tubuh;herbal;jintan hitam
+OBT054,Sido Muncul Kunyit Asam,Ekstrak Kunyit Asam Jawa,Jamu Tradisional,Tidak,nyeri haid;haid tidak lancar;kesehatan wanita
+OBT055,Temulawak Plus,Ekstrak Temulawak,Jamu Nafsu Makan,Tidak,nafsu makan;temulawak;liver;anak susah makan
+OBT056,Madu Murni,Madu,Suplemen Alami,Tidak,madu;imunitas;energi;batuk;luka
+OBT057,Sari Kurma,Ekstrak Kurma,Suplemen Energi,Tidak,stamina;energi;ibu hamil;kurma
+OBT058,Sido Muncul Tolak Linu,Ekstrak Herbal,Jamu Nyeri Sendi,Tidak,nyeri sendi;pegal linu;rematik;encok;asam urat
+OBT059,Vidoran Smart,Multivitamin + DHA,Multivitamin Anak,Tidak,vitamin anak;DHA;pertumbuhan anak;otak anak
+OBT060,Folavit,Asam Folat,Vitamin,Tidak,asam folat;kehamilan;ibu hamil;anemia
+OBT061,Blackmores Pregnancy,Multivitamin Ibu Hamil,Multivitamin,Tidak,vitamin ibu hamil;kehamilan;asam folat;zat besi
+OBT062,Lansoprazole 30mg,Lansoprazole,Proton Pump Inhibitor,Ya,maag kronis;GERD;tukak lambung;asam lambung
+OBT063,Ranitidine 150mg,Ranitidine,H2 Receptor Antagonist,Ya,maag;asam lambung;tukak lambung;GERD
+OBT064,Sucralfate 500mg,Sucralfate,Protektan Mukosa,Ya,tukak lambung;maag;luka lambung
+OBT065,Metoclopramide 10mg,Metoclopramide,Prokinetik Antiemetik,Ya,mual;muntah;lambat cerna;kembung
+OBT066,Dexamethasone 0.5mg,Dexamethasone,Kortikosteroid,Ya,alergi berat;peradangan;autoimun;kortikosteroid
+OBT067,Methylprednisolone 4mg,Methylprednisolone,Kortikosteroid,Ya,peradangan;alergi berat;asma;autoimun
+OBT068,Prednisone 5mg,Prednisone,Kortikosteroid,Ya,peradangan;imunosupresan;alergi berat
+OBT069,Allopurinol 100mg,Allopurinol,Antigout,Ya,asam urat;gout;nyeri sendi;encok
+OBT070,Colchicine 0.5mg,Colchicine,Antigout,Ya,gout;asam urat;serangan gout;nyeri sendi
+OBT071,Ketoconazole 200mg,Ketoconazole,Antijamur,Ya,jamur;infeksi jamur;kandidiasis;panu;kurap
+OBT072,Fluconazole 150mg,Fluconazole,Antijamur,Ya,jamur;keputihan;kandidiasis;infeksi jamur vagina
+OBT073,Acyclovir 400mg,Acyclovir,Antivirus,Ya,herpes;cacar;virus herpes;herpes zoster
+OBT074,Diazepam 2mg,Diazepam,Benzodiazepin Anxiolytic,Ya,cemas;kecemasan;insomnia;susah tidur;gelisah
+OBT075,Alprazolam 0.5mg,Alprazolam,Benzodiazepin Anxiolytic,Ya,cemas;panik;kecemasan;gelisah;anxietas
+OBT076,Gabapentin 300mg,Gabapentin,Antikonvulsan,Ya,nyeri neuropatik;kesemutan;kebas;epilepsi
+OBT077,Carbamazepine 200mg,Carbamazepine,Antikonvulsan,Ya,epilepsi;kejang;neuralgia;bipolar
+OBT078,Phenytoin 100mg,Phenytoin,Antikonvulsan,Ya,epilepsi;kejang;antikonvulsan
+OBT079,Bisoprolol 5mg,Bisoprolol,Antihipertensi Beta Blocker,Ya,hipertensi;darah tinggi;angina;jantung
+OBT080,Valsartan 80mg,Valsartan,Antihipertensi ARB,Ya,hipertensi;darah tinggi;gagal jantung
+OBT081,Candesartan 8mg,Candesartan,Antihipertensi ARB,Ya,hipertensi;darah tinggi;tekanan darah tinggi
+OBT082,HCT 25mg,Hydrochlorothiazide,Diuretik Tiazid,Ya,hipertensi;darah tinggi;diuretik;bengkak
+OBT083,Atorvastatin 20mg,Atorvastatin,Antihiperlipidemia Statin,Ya,kolesterol;kolesterol tinggi;lemak darah
+OBT084,Aspirin Cardio 100mg,Aspirin,Antiplatelet,Ya,pengencer darah;jantung;stroke;antiplatelet
+OBT085,Clopidogrel 75mg,Clopidogrel,Antiplatelet,Ya,pengencer darah;stroke;serangan jantung;antiplatelet
+OBT086,Isosorbide Dinitrate 5mg,Isosorbide Dinitrate,Antiangina Nitrat,Ya,angina;nyeri dada;jantung koroner;sesak nafas jantung
+OBT087,Furosemide 40mg,Furosemide,Diuretik Loop,Ya,bengkak;edema;diuretik;gagal jantung
+OBT088,Spironolactone 25mg,Spironolactone,Diuretik Hemat Kalium,Ya,bengkak;edema;diuretik;hipertensi
+OBT089,Digoxin 0.25mg,Digoxin,Glikosida Jantung,Ya,gagal jantung;aritmia;fibrilasi atrial
+OBT090,Propranolol 40mg,Propranolol,Beta Blocker Non-selektif,Ya,hipertensi;angina;aritmia;migrain;tremor
+OBT091,Diltiazem 30mg,Diltiazem,Calcium Channel Blocker,Ya,hipertensi;angina;aritmia;jantung
+OBT092,Nifedipine 10mg,Nifedipine,Calcium Channel Blocker,Ya,hipertensi;angina;darah tinggi
+OBT093,Enalapril 5mg,Enalapril,ACE Inhibitor,Ya,hipertensi;gagal jantung;darah tinggi
+OBT094,Lisinopril 10mg,Lisinopril,ACE Inhibitor,Ya,hipertensi;gagal jantung;pasca serangan jantung
+OBT095,Losartan 50mg,Losartan,Angiotensin Receptor Blocker,Ya,hipertensi;darah tinggi;diabetes;proteinuria
+OBT096,Irbesartan 150mg,Irbesartan,Angiotensin Receptor Blocker,Ya,hipertensi;diabetes;nefropati;ginjal
+OBT097,Telmisartan 40mg,Telmisartan,Angiotensin Receptor Blocker,Ya,hipertensi;darah tinggi;kardiovaskular
+OBT098,Gemfibrozil 300mg,Gemfibrozil,Fibrat Antihiperlipidemia,Ya,trigliserida;kolesterol;lemak darah
+OBT099,Fenofibrate 300mg,Fenofibrate,Fibrat Antihiperlipidemia,Ya,trigliserida;kolesterol;lemak darah
+OBT100,Ezetimibe 10mg,Ezetimibe,Penghambat Absorpsi Kolesterol,Ya,kolesterol;kolesterol tinggi;lemak darah

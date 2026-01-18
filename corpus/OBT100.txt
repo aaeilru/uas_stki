@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT100
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Ezetimibe 10mg
+Nama Generik    : Ezetimibe
+Golongan Obat   : Penghambat Absorpsi Kolesterol
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Ezetimibe 10mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Menurunkan kolesterol dengan menghambat absorpsi kolesterol di usus
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 10mg sekali sehari dapat dikombinasi dengan statin
+
+EFEK SAMPING
+------------
+Diare nyeri perut kelelahan
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Penyakit hati aktif jika dikombinasi dengan statin
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 30,000 - Rp 65,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+kolesterol, kolesterol tinggi, lemak darah
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

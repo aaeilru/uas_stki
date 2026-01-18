@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT038
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Salbutamol Inhaler
+Nama Generik    : Salbutamol
+Golongan Obat   : Bronkodilator Beta-2 Agonis
+Bentuk Sediaan  : Inhaler
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Salbutamol 100mcg per spray
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Meredakan sesak napas pada asma dan PPOK dengan melebarkan saluran napas
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa dan anak di atas 4 tahun: 1-2 hirupan saat dibutuhkan maksimal 8 hirupan per hari
+
+EFEK SAMPING
+------------
+Tremor jantung berdebar sakit kepala
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Hipersensitif salbutamol hipertiroid tidak terkontrol
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 45,000 - Rp 95,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+asma, sesak napas, mengi, bronkodilator, PPOK
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

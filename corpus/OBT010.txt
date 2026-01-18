@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT010
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Hufagrip Tablet
+Nama Generik    : Paracetamol + Pseudoephedrine + CTM
+Golongan Obat   : Analgesik Dekongestan Antihistamin
+Bentuk Sediaan  : Tablet
+Produsen        : Ifars
+
+KOMPOSISI
+---------
+Paracetamol 500mg Pseudoephedrine HCl 7.5mg Chlorpheniramine Maleate 2mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Meredakan gejala flu seperti demam sakit kepala hidung tersumbat bersin-bersin
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 1 tablet 3-4 kali sehari
+
+EFEK SAMPING
+------------
+Mengantuk pusing mulut kering mual jantung berdebar
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Hipertensi berat penyakit jantung koroner
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 13,000
+Kebutuhan Resep: Tidak
+
+KATA KUNCI PENCARIAN
+--------------------
+flu, demam, pilek, hidung tersumbat, bersin
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

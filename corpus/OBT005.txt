@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT005
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Oskadon Tablet
+Nama Generik    : Paracetamol + Ibuprofen
+Golongan Obat   : Analgesik
+Bentuk Sediaan  : Tablet
+Produsen        : Bayer
+
+KOMPOSISI
+---------
+Paracetamol 250mg Ibuprofen 200mg Caffeine 50mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Meringankan sakit kepala termasuk sakit kepala tegang dan migrain serta sakit gigi
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 1 tablet 3 kali sehari sesudah makan
+
+EFEK SAMPING
+------------
+Mual muntah nyeri lambung pusing mengantuk
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Tukak lambung atau duodenum gangguan ginjal dan hati berat asma
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 12,000
+Kebutuhan Resep: Tidak
+
+KATA KUNCI PENCARIAN
+--------------------
+sakit kepala, migrain, sakit gigi, nyeri
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

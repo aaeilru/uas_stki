@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT094
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Lisinopril 10mg
+Nama Generik    : Lisinopril
+Golongan Obat   : ACE Inhibitor
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Lisinopril 10mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi gagal jantung dan pasca infark miokard
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 10mg sekali sehari dapat ditingkatkan hingga 40mg
+
+EFEK SAMPING
+------------
+Batuk kering pusing hipotensi hiperkalemia
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Kehamilan angioedema
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 8,000 - Rp 20,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, gagal jantung, pasca serangan jantung
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

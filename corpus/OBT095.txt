@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT095
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Losartan 50mg
+Nama Generik    : Losartan
+Golongan Obat   : Angiotensin Receptor Blocker
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Losartan potassium 50mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi dan melindungi ginjal pada diabetes dengan proteinuria
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 50mg sekali sehari dapat ditingkatkan hingga 100mg
+
+EFEK SAMPING
+------------
+Pusing kelelahan hiperkalemia
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Kehamilan gangguan hati berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 15,000 - Rp 35,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, darah tinggi, diabetes, proteinuria
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

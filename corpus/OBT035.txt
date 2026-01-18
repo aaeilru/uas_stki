@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT035
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Amlodipine 5mg
+Nama Generik    : Amlodipine
+Golongan Obat   : Antihipertensi Calcium Channel Blocker
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Amlodipine 5mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi dan angina dengan mengurangi beban kerja jantung
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 5-10mg sekali sehari
+
+EFEK SAMPING
+------------
+Edema pergelangan kaki pusing sakit kepala kelelahan
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Stenosis aorta berat syok kardiogenik
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 15,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, darah tinggi, tekanan darah tinggi, angina
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

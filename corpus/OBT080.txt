@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT080
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Valsartan 80mg
+Nama Generik    : Valsartan
+Golongan Obat   : Antihipertensi ARB
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Valsartan 80mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi gagal jantung dan pasca infark miokard
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 80-160mg sekali sehari
+
+EFEK SAMPING
+------------
+Pusing kelelahan hiperkalemia
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Kehamilan gangguan hati berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 30,000 - Rp 65,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, darah tinggi, gagal jantung
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

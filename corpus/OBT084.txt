@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT084
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Aspirin Cardio 100mg
+Nama Generik    : Aspirin
+Golongan Obat   : Antiplatelet
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Aspirin 100mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mencegah pembekuan darah pada pasien risiko tinggi penyakit jantung dan stroke
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 75-100mg sekali sehari setelah makan
+
+EFEK SAMPING
+------------
+Gangguan pencernaan perdarahan lambung
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Tukak lambung aktif hemofilia anak di bawah 16 tahun
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 15,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+pengencer darah, jantung, stroke, antiplatelet
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

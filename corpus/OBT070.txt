@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT070
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Colchicine 0.5mg
+Nama Generik    : Colchicine
+Golongan Obat   : Antigout
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Colchicine 0.5mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Meredakan serangan gout akut dan mencegah serangan berulang
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 0.5-1mg saat serangan dapat diulang setelah 1 jam maksimal 6mg per episode
+
+EFEK SAMPING
+------------
+Diare mual muntah nyeri perut
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Gangguan ginjal dan hati berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 12,000 - Rp 30,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+gout, asam urat, serangan gout, nyeri sendi
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

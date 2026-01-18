@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT096
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Irbesartan 150mg
+Nama Generik    : Irbesartan
+Golongan Obat   : Angiotensin Receptor Blocker
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Irbesartan 150mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi dan nefropati diabetik
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 150mg sekali sehari dapat ditingkatkan hingga 300mg
+
+EFEK SAMPING
+------------
+Pusing kelelahan hiperkalemia
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Kehamilan
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 20,000 - Rp 45,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, diabetes, nefropati, ginjal
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

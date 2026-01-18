@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT078
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Phenytoin 100mg
+Nama Generik    : Phenytoin
+Golongan Obat   : Antikonvulsan
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Phenytoin sodium 100mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati dan mencegah kejang epilepsi berbagai tipe
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 100mg 3 kali sehari atau sesuai kadar darah
+
+EFEK SAMPING
+------------
+Pusing mengantuk hiperplasia gingiva ataksia
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Hipersensitif phenytoin gangguan hati berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 15,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+epilepsi, kejang, antikonvulsan
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

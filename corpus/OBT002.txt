@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT002
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Biogesic 500mg
+Nama Generik    : Paracetamol
+Golongan Obat   : Analgesik Antipiretik
+Bentuk Sediaan  : Tablet
+Produsen        : Combiphar
+
+KOMPOSISI
+---------
+Paracetamol 500mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Menurunkan demam dan meredakan nyeri ringan hingga sedang termasuk sakit kepala dan sakit gigi
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 1-2 tablet 3-4 kali sehari. Diminum setelah makan
+
+EFEK SAMPING
+------------
+Reaksi alergi kulit mual gangguan fungsi hati pada penggunaan dosis berlebih
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Gangguan fungsi hati berat hipersensitif paracetamol
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 4,000 - Rp 12,000
+Kebutuhan Resep: Tidak
+
+KATA KUNCI PENCARIAN
+--------------------
+demam, panas, sakit kepala, nyeri, flu
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

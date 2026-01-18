@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT069
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Allopurinol 100mg
+Nama Generik    : Allopurinol
+Golongan Obat   : Antigout
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Allopurinol 100mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Menurunkan kadar asam urat dalam darah untuk mencegah serangan gout
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 100-300mg sekali sehari setelah makan
+
+EFEK SAMPING
+------------
+Ruam kulit gangguan pencernaan sakit kepala
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Serangan gout akut gangguan hati dan ginjal berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 5,000 - Rp 15,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+asam urat, gout, nyeri sendi, encok
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

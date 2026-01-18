@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT091
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Diltiazem 30mg
+Nama Generik    : Diltiazem
+Golongan Obat   : Calcium Channel Blocker
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Diltiazem 30mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati hipertensi angina dan mengontrol laju jantung pada aritmia
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 30mg 3-4 kali sehari dapat ditingkatkan
+
+EFEK SAMPING
+------------
+Pusing bradikardia edema konstipasi
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Syok kardiogenik bradikardia berat blok AV
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 8,000 - Rp 20,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+hipertensi, angina, aritmia, jantung
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

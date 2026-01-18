@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT073
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Acyclovir 400mg
+Nama Generik    : Acyclovir
+Golongan Obat   : Antivirus
+Bentuk Sediaan  : Tablet
+Produsen        : Generik
+
+KOMPOSISI
+---------
+Acyclovir 400mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Mengobati infeksi virus herpes simpleks dan varicella zoster
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 400mg 3-5 kali sehari selama 5-7 hari
+
+EFEK SAMPING
+------------
+Mual sakit kepala pusing gangguan ginjal
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Hipersensitif acyclovir gangguan ginjal berat
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 20,000 - Rp 45,000
+Kebutuhan Resep: Ya
+
+KATA KUNCI PENCARIAN
+--------------------
+herpes, cacar, virus herpes, herpes zoster
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.

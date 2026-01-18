@@ -1,0 +1,43 @@
+DOKUMEN OBAT ID: OBT007
+================================================================================
+
+INFORMASI PRODUK
+----------------
+Nama Obat       : Proris Ibuprofen 400mg
+Nama Generik    : Ibuprofen
+Golongan Obat   : NSAID
+Bentuk Sediaan  : Tablet
+Produsen        : Pyridam Farma
+
+KOMPOSISI
+---------
+Ibuprofen 400mg
+
+INDIKASI DAN KEGUNAAN
+---------------------
+Meredakan nyeri ringan hingga sedang seperti sakit kepala sakit gigi nyeri haid nyeri otot nyeri sendi dan menurunkan demam
+
+DOSIS DAN ATURAN PAKAI
+----------------------
+Dewasa: 1 tablet 3-4 kali sehari sesudah makan. Maksimal 3 tablet per hari
+
+EFEK SAMPING
+------------
+Nyeri lambung mual muntah diare pusing heartburn
+
+KONTRAINDIKASI DAN PERINGATAN
+-----------------------------
+Tukak lambung aktif asma gangguan ginjal berat riwayat perdarahan saluran cerna
+
+INFORMASI HARGA
+---------------
+Harga Kisaran: Rp 8,000 - Rp 20,000
+Kebutuhan Resep: Tidak
+
+KATA KUNCI PENCARIAN
+--------------------
+nyeri, sakit kepala, nyeri haid, sakit gigi, demam, nyeri otot
+
+================================================================================
+Dokumen ini dapat digunakan untuk pencarian berdasarkan nama obat, gejala/keluhan,
+kategori obat, atau kandungan obat.
