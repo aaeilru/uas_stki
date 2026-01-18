@@ -37,7 +37,6 @@ sastrawi==1.0.1
 pandas==2.1.3  
 numpy==1.24.3``` 
 
----
 ```
 
 ##  Panduan Struktur Sistem 
